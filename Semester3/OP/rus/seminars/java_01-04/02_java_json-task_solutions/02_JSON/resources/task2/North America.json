@@ -1,0 +1,176 @@
+[ {
+  "countryName" : "Saint Martin",
+  "capitalName" : "Marigot",
+  "capitalLatitude" : "18.0731",
+  "capitalLongitude" : "-63.082200",
+  "countryCode" : "MF",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Anguilla",
+  "capitalName" : "The Valley",
+  "capitalLatitude" : "18.216666666666665",
+  "capitalLongitude" : "-63.050000",
+  "countryCode" : "AI",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Antigua and Barbuda",
+  "capitalName" : "Saint John's",
+  "capitalLatitude" : "17.116666666666667",
+  "capitalLongitude" : "-61.850000",
+  "countryCode" : "AG",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Aruba",
+  "capitalName" : "Oranjestad",
+  "capitalLatitude" : "12.516666666666667",
+  "capitalLongitude" : "-70.033333",
+  "countryCode" : "AW",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Bahamas",
+  "capitalName" : "Nassau",
+  "capitalLatitude" : "25.083333333333332",
+  "capitalLongitude" : "-77.350000",
+  "countryCode" : "BS",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Barbados",
+  "capitalName" : "Bridgetown",
+  "capitalLatitude" : "13.1",
+  "capitalLongitude" : "-59.616667",
+  "countryCode" : "BB",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Bermuda",
+  "capitalName" : "Hamilton",
+  "capitalLatitude" : "32.28333333333333",
+  "capitalLongitude" : "-64.783333",
+  "countryCode" : "BM",
+  "continentName" : "North America"
+}, {
+  "countryName" : "British Virgin Islands",
+  "capitalName" : "Road Town",
+  "capitalLatitude" : "18.416666666666668",
+  "capitalLongitude" : "-64.616667",
+  "countryCode" : "VG",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Cayman Islands",
+  "capitalName" : "George Town",
+  "capitalLatitude" : "19.3",
+  "capitalLongitude" : "-81.383333",
+  "countryCode" : "KY",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Cuba",
+  "capitalName" : "Havana",
+  "capitalLatitude" : "23.116666666666667",
+  "capitalLongitude" : "-82.350000",
+  "countryCode" : "CU",
+  "continentName" : "North America"
+}, {
+  "countryName" : "CuraÃ§ao",
+  "capitalName" : "Willemstad",
+  "capitalLatitude" : "12.1",
+  "capitalLongitude" : "-68.916667",
+  "countryCode" : "CW",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Dominica",
+  "capitalName" : "Roseau",
+  "capitalLatitude" : "15.3",
+  "capitalLongitude" : "-61.400000",
+  "countryCode" : "DM",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Dominican Republic",
+  "capitalName" : "Santo Domingo",
+  "capitalLatitude" : "18.466666666666665",
+  "capitalLongitude" : "-69.900000",
+  "countryCode" : "DO",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Grenada",
+  "capitalName" : "Saint George's",
+  "capitalLatitude" : "12.05",
+  "capitalLongitude" : "-61.750000",
+  "countryCode" : "GD",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Haiti",
+  "capitalName" : "Port-au-Prince",
+  "capitalLatitude" : "18.533333333333335",
+  "capitalLongitude" : "-72.333333",
+  "countryCode" : "HT",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Jamaica",
+  "capitalName" : "Kingston",
+  "capitalLatitude" : "18",
+  "capitalLongitude" : "-76.800000",
+  "countryCode" : "JM",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Montserrat",
+  "capitalName" : "Plymouth",
+  "capitalLatitude" : "16.7",
+  "capitalLongitude" : "-62.216667",
+  "countryCode" : "MS",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Puerto Rico",
+  "capitalName" : "San Juan",
+  "capitalLatitude" : "18.466666666666665",
+  "capitalLongitude" : "-66.116667",
+  "countryCode" : "PR",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Saint Barthelemy",
+  "capitalName" : "Gustavia",
+  "capitalLatitude" : "17.883333333333333",
+  "capitalLongitude" : "-62.850000",
+  "countryCode" : "BL",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Saint Kitts and Nevis",
+  "capitalName" : "Basseterre",
+  "capitalLatitude" : "17.3",
+  "capitalLongitude" : "-62.716667",
+  "countryCode" : "KN",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Saint Lucia",
+  "capitalName" : "Castries",
+  "capitalLatitude" : "14",
+  "capitalLongitude" : "-61.000000",
+  "countryCode" : "LC",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Sint Maarten",
+  "capitalName" : "Philipsburg",
+  "capitalLatitude" : "18.016666666666666",
+  "capitalLongitude" : "-63.033333",
+  "countryCode" : "SX",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Trinidad and Tobago",
+  "capitalName" : "Port of Spain",
+  "capitalLatitude" : "10.65",
+  "capitalLongitude" : "-61.516667",
+  "countryCode" : "TT",
+  "continentName" : "North America"
+}, {
+  "countryName" : "Turks and Caicos Islands",
+  "capitalName" : "Grand Turk",
+  "capitalLatitude" : "21.466666666666665",
+  "capitalLongitude" : "-71.133333",
+  "countryCode" : "TC",
+  "continentName" : "North America"
+}, {
+  "countryName" : "US Virgin Islands",
+  "capitalName" : "Charlotte Amalie",
+  "capitalLatitude" : "18.35",
+  "capitalLongitude" : "-64.933333",
+  "countryCode" : "VI",
+  "continentName" : "North America"
+} ]
