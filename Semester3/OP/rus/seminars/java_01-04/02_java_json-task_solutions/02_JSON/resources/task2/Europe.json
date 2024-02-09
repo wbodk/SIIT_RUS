@@ -1,0 +1,400 @@
+[ {
+  "countryName" : "Aland Islands",
+  "capitalName" : "Mariehamn",
+  "capitalLatitude" : "60.116667",
+  "capitalLongitude" : "19.900000",
+  "countryCode" : "AX",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Albania",
+  "capitalName" : "Tirana",
+  "capitalLatitude" : "41.31666666666667",
+  "capitalLongitude" : "19.816667",
+  "countryCode" : "AL",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Andorra",
+  "capitalName" : "Andorra la Vella",
+  "capitalLatitude" : "42.5",
+  "capitalLongitude" : "1.516667",
+  "countryCode" : "AD",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Armenia",
+  "capitalName" : "Yerevan",
+  "capitalLatitude" : "40.166666666666664",
+  "capitalLongitude" : "44.500000",
+  "countryCode" : "AM",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Austria",
+  "capitalName" : "Vienna",
+  "capitalLatitude" : "48.2",
+  "capitalLongitude" : "16.366667",
+  "countryCode" : "AT",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Azerbaijan",
+  "capitalName" : "Baku",
+  "capitalLatitude" : "40.38333333333333",
+  "capitalLongitude" : "49.866667",
+  "countryCode" : "AZ",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Belarus",
+  "capitalName" : "Minsk",
+  "capitalLatitude" : "53.9",
+  "capitalLongitude" : "27.566667",
+  "countryCode" : "BY",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Belgium",
+  "capitalName" : "Brussels",
+  "capitalLatitude" : "50.833333333333336",
+  "capitalLongitude" : "4.333333",
+  "countryCode" : "BE",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Bosnia and Herzegovina",
+  "capitalName" : "Sarajevo",
+  "capitalLatitude" : "43.86666666666667",
+  "capitalLongitude" : "18.416667",
+  "countryCode" : "BA",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Bulgaria",
+  "capitalName" : "Sofia",
+  "capitalLatitude" : "42.68333333333333",
+  "capitalLongitude" : "23.316667",
+  "countryCode" : "BG",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Croatia",
+  "capitalName" : "Zagreb",
+  "capitalLatitude" : "45.8",
+  "capitalLongitude" : "16.000000",
+  "countryCode" : "HR",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Cyprus",
+  "capitalName" : "Nicosia",
+  "capitalLatitude" : "35.166666666666664",
+  "capitalLongitude" : "33.366667",
+  "countryCode" : "CY",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Czech Republic",
+  "capitalName" : "Prague",
+  "capitalLatitude" : "50.083333333333336",
+  "capitalLongitude" : "14.466667",
+  "countryCode" : "CZ",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Denmark",
+  "capitalName" : "Copenhagen",
+  "capitalLatitude" : "55.666666666666664",
+  "capitalLongitude" : "12.583333",
+  "countryCode" : "DK",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Estonia",
+  "capitalName" : "Tallinn",
+  "capitalLatitude" : "59.43333333333333",
+  "capitalLongitude" : "24.716667",
+  "countryCode" : "EE",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Faroe Islands",
+  "capitalName" : "Torshavn",
+  "capitalLatitude" : "62",
+  "capitalLongitude" : "-6.766667",
+  "countryCode" : "FO",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Finland",
+  "capitalName" : "Helsinki",
+  "capitalLatitude" : "60.166666666666664",
+  "capitalLongitude" : "24.933333",
+  "countryCode" : "FI",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "France",
+  "capitalName" : "Paris",
+  "capitalLatitude" : "48.86666666666667",
+  "capitalLongitude" : "2.333333",
+  "countryCode" : "FR",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Georgia",
+  "capitalName" : "Tbilisi",
+  "capitalLatitude" : "41.68333333333333",
+  "capitalLongitude" : "44.833333",
+  "countryCode" : "GE",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Germany",
+  "capitalName" : "Berlin",
+  "capitalLatitude" : "52.516666666666666",
+  "capitalLongitude" : "13.400000",
+  "countryCode" : "DE",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Gibraltar",
+  "capitalName" : "Gibraltar",
+  "capitalLatitude" : "36.13333333333333",
+  "capitalLongitude" : "-5.350000",
+  "countryCode" : "GI",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Greece",
+  "capitalName" : "Athens",
+  "capitalLatitude" : "37.983333333333334",
+  "capitalLongitude" : "23.733333",
+  "countryCode" : "GR",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Guernsey",
+  "capitalName" : "Saint Peter Port",
+  "capitalLatitude" : "49.45",
+  "capitalLongitude" : "-2.533333",
+  "countryCode" : "GG",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Vatican City",
+  "capitalName" : "Vatican City",
+  "capitalLatitude" : "41.9",
+  "capitalLongitude" : "12.450000",
+  "countryCode" : "VA",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Hungary",
+  "capitalName" : "Budapest",
+  "capitalLatitude" : "47.5",
+  "capitalLongitude" : "19.083333",
+  "countryCode" : "HU",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Iceland",
+  "capitalName" : "Reykjavik",
+  "capitalLatitude" : "64.15",
+  "capitalLongitude" : "-21.950000",
+  "countryCode" : "IS",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Ireland",
+  "capitalName" : "Dublin",
+  "capitalLatitude" : "53.31666666666667",
+  "capitalLongitude" : "-6.233333",
+  "countryCode" : "IE",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Isle of Man",
+  "capitalName" : "Douglas",
+  "capitalLatitude" : "54.15",
+  "capitalLongitude" : "-4.483333",
+  "countryCode" : "IM",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Italy",
+  "capitalName" : "Rome",
+  "capitalLatitude" : "41.9",
+  "capitalLongitude" : "12.483333",
+  "countryCode" : "IT",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Jersey",
+  "capitalName" : "Saint Helier",
+  "capitalLatitude" : "49.18333333333333",
+  "capitalLongitude" : "-2.100000",
+  "countryCode" : "JE",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Latvia",
+  "capitalName" : "Riga",
+  "capitalLatitude" : "56.95",
+  "capitalLongitude" : "24.100000",
+  "countryCode" : "LV",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Liechtenstein",
+  "capitalName" : "Vaduz",
+  "capitalLatitude" : "47.13333333333333",
+  "capitalLongitude" : "9.516667",
+  "countryCode" : "LI",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Lithuania",
+  "capitalName" : "Vilnius",
+  "capitalLatitude" : "54.68333333333333",
+  "capitalLongitude" : "25.316667",
+  "countryCode" : "LT",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Luxembourg",
+  "capitalName" : "Luxembourg",
+  "capitalLatitude" : "49.6",
+  "capitalLongitude" : "6.116667",
+  "countryCode" : "LU",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Macedonia",
+  "capitalName" : "Skopje",
+  "capitalLatitude" : "42",
+  "capitalLongitude" : "21.433333",
+  "countryCode" : "MK",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Malta",
+  "capitalName" : "Valletta",
+  "capitalLatitude" : "35.88333333333333",
+  "capitalLongitude" : "14.500000",
+  "countryCode" : "MT",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Moldova",
+  "capitalName" : "Chisinau",
+  "capitalLatitude" : "47",
+  "capitalLongitude" : "28.850000",
+  "countryCode" : "MD",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Monaco",
+  "capitalName" : "Monaco",
+  "capitalLatitude" : "43.733333333333334",
+  "capitalLongitude" : "7.416667",
+  "countryCode" : "MC",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Montenegro",
+  "capitalName" : "Podgorica",
+  "capitalLatitude" : "42.43333333333333",
+  "capitalLongitude" : "19.266667",
+  "countryCode" : "ME",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Netherlands",
+  "capitalName" : "Amsterdam",
+  "capitalLatitude" : "52.35",
+  "capitalLongitude" : "4.916667",
+  "countryCode" : "NL",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Norway",
+  "capitalName" : "Oslo",
+  "capitalLatitude" : "59.916666666666664",
+  "capitalLongitude" : "10.750000",
+  "countryCode" : "NO",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Poland",
+  "capitalName" : "Warsaw",
+  "capitalLatitude" : "52.25",
+  "capitalLongitude" : "21.000000",
+  "countryCode" : "PL",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Portugal",
+  "capitalName" : "Lisbon",
+  "capitalLatitude" : "38.71666666666667",
+  "capitalLongitude" : "-9.133333",
+  "countryCode" : "PT",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Romania",
+  "capitalName" : "Bucharest",
+  "capitalLatitude" : "44.43333333333333",
+  "capitalLongitude" : "26.100000",
+  "countryCode" : "RO",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Russia",
+  "capitalName" : "Moscow",
+  "capitalLatitude" : "55.75",
+  "capitalLongitude" : "37.600000",
+  "countryCode" : "RU",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "San Marino",
+  "capitalName" : "San Marino",
+  "capitalLatitude" : "43.93333333333333",
+  "capitalLongitude" : "12.416667",
+  "countryCode" : "SM",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Serbia",
+  "capitalName" : "Belgrade",
+  "capitalLatitude" : "44.833333333333336",
+  "capitalLongitude" : "20.500000",
+  "countryCode" : "RS",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Slovakia",
+  "capitalName" : "Bratislava",
+  "capitalLatitude" : "48.15",
+  "capitalLongitude" : "17.116667",
+  "countryCode" : "SK",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Slovenia",
+  "capitalName" : "Ljubljana",
+  "capitalLatitude" : "46.05",
+  "capitalLongitude" : "14.516667",
+  "countryCode" : "SI",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Spain",
+  "capitalName" : "Madrid",
+  "capitalLatitude" : "40.4",
+  "capitalLongitude" : "-3.683333",
+  "countryCode" : "ES",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Svalbard",
+  "capitalName" : "Longyearbyen",
+  "capitalLatitude" : "78.21666666666667",
+  "capitalLongitude" : "15.633333",
+  "countryCode" : "SJ",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Sweden",
+  "capitalName" : "Stockholm",
+  "capitalLatitude" : "59.333333333333336",
+  "capitalLongitude" : "18.050000",
+  "countryCode" : "SE",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Switzerland",
+  "capitalName" : "Bern",
+  "capitalLatitude" : "46.916666666666664",
+  "capitalLongitude" : "7.466667",
+  "countryCode" : "CH",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Turkey",
+  "capitalName" : "Ankara",
+  "capitalLatitude" : "39.93333333333333",
+  "capitalLongitude" : "32.866667",
+  "countryCode" : "TR",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Ukraine",
+  "capitalName" : "Kyiv",
+  "capitalLatitude" : "50.43333333333333",
+  "capitalLongitude" : "30.516667",
+  "countryCode" : "UA",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "United Kingdom",
+  "capitalName" : "London",
+  "capitalLatitude" : "51.5",
+  "capitalLongitude" : "-0.083333",
+  "countryCode" : "GB",
+  "continentName" : "Europe"
+}, {
+  "countryName" : "Northern Cyprus",
+  "capitalName" : "North Nicosia",
+  "capitalLatitude" : "35.183333",
+  "capitalLongitude" : "33.366667",
+  "countryCode" : "NULL",
+  "continentName" : "Europe"
+} ]
