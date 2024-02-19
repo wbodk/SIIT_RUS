@@ -1,0 +1,407 @@
+[ {
+  "countryName" : "Somaliland",
+  "capitalName" : "Hargeisa",
+  "capitalLatitude" : "9.55",
+  "capitalLongitude" : "44.050000",
+  "countryCode" : "NULL",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Western Sahara",
+  "capitalName" : "El-AaiÃºn",
+  "capitalLatitude" : "27.153611",
+  "capitalLongitude" : "-13.203333",
+  "countryCode" : "EH",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Algeria",
+  "capitalName" : "Algiers",
+  "capitalLatitude" : "36.75",
+  "capitalLongitude" : "3.050000",
+  "countryCode" : "DZ",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Angola",
+  "capitalName" : "Luanda",
+  "capitalLatitude" : "-8.833333333333334",
+  "capitalLongitude" : "13.216667",
+  "countryCode" : "AO",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Benin",
+  "capitalName" : "Porto-Novo",
+  "capitalLatitude" : "6.483333333333333",
+  "capitalLongitude" : "2.616667",
+  "countryCode" : "BJ",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Botswana",
+  "capitalName" : "Gaborone",
+  "capitalLatitude" : "-24.633333333333333",
+  "capitalLongitude" : "25.900000",
+  "countryCode" : "BW",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Burkina Faso",
+  "capitalName" : "Ouagadougou",
+  "capitalLatitude" : "12.366666666666667",
+  "capitalLongitude" : "-1.516667",
+  "countryCode" : "BF",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Burundi",
+  "capitalName" : "Bujumbura",
+  "capitalLatitude" : "-3.3666666666666667",
+  "capitalLongitude" : "29.350000",
+  "countryCode" : "BI",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Cameroon",
+  "capitalName" : "Yaounde",
+  "capitalLatitude" : "3.8666666666666667",
+  "capitalLongitude" : "11.516667",
+  "countryCode" : "CM",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Cape Verde",
+  "capitalName" : "Praia",
+  "capitalLatitude" : "14.916666666666666",
+  "capitalLongitude" : "-23.516667",
+  "countryCode" : "CV",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Central African Republic",
+  "capitalName" : "Bangui",
+  "capitalLatitude" : "4.366666666666666",
+  "capitalLongitude" : "18.583333",
+  "countryCode" : "CF",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Chad",
+  "capitalName" : "N'Djamena",
+  "capitalLatitude" : "12.1",
+  "capitalLongitude" : "15.033333",
+  "countryCode" : "TD",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Comoros",
+  "capitalName" : "Moroni",
+  "capitalLatitude" : "-11.7",
+  "capitalLongitude" : "43.233333",
+  "countryCode" : "KM",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Democratic Republic of the Congo",
+  "capitalName" : "Kinshasa",
+  "capitalLatitude" : "-4.316666666666666",
+  "capitalLongitude" : "15.300000",
+  "countryCode" : "CD",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Republic of Congo",
+  "capitalName" : "Brazzaville",
+  "capitalLatitude" : "-4.25",
+  "capitalLongitude" : "15.283333",
+  "countryCode" : "CG",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Cote d'Ivoire",
+  "capitalName" : "Yamoussoukro",
+  "capitalLatitude" : "6.816666666666666",
+  "capitalLongitude" : "-5.266667",
+  "countryCode" : "CI",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Djibouti",
+  "capitalName" : "Djibouti",
+  "capitalLatitude" : "11.583333333333334",
+  "capitalLongitude" : "43.150000",
+  "countryCode" : "DJ",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Egypt",
+  "capitalName" : "Cairo",
+  "capitalLatitude" : "30.05",
+  "capitalLongitude" : "31.250000",
+  "countryCode" : "EG",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Equatorial Guinea",
+  "capitalName" : "Malabo",
+  "capitalLatitude" : "3.75",
+  "capitalLongitude" : "8.783333",
+  "countryCode" : "GQ",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Eritrea",
+  "capitalName" : "Asmara",
+  "capitalLatitude" : "15.333333333333334",
+  "capitalLongitude" : "38.933333",
+  "countryCode" : "ER",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Ethiopia",
+  "capitalName" : "Addis Ababa",
+  "capitalLatitude" : "9.033333333333333",
+  "capitalLongitude" : "38.700000",
+  "countryCode" : "ET",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Gabon",
+  "capitalName" : "Libreville",
+  "capitalLatitude" : "0.38333333333333336",
+  "capitalLongitude" : "9.450000",
+  "countryCode" : "GA",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "The Gambia",
+  "capitalName" : "Banjul",
+  "capitalLatitude" : "13.45",
+  "capitalLongitude" : "-16.566667",
+  "countryCode" : "GM",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Ghana",
+  "capitalName" : "Accra",
+  "capitalLatitude" : "5.55",
+  "capitalLongitude" : "-0.216667",
+  "countryCode" : "GH",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Guinea",
+  "capitalName" : "Conakry",
+  "capitalLatitude" : "9.5",
+  "capitalLongitude" : "-13.700000",
+  "countryCode" : "GN",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Guinea-Bissau",
+  "capitalName" : "Bissau",
+  "capitalLatitude" : "11.85",
+  "capitalLongitude" : "-15.583333",
+  "countryCode" : "GW",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Kenya",
+  "capitalName" : "Nairobi",
+  "capitalLatitude" : "-1.2833333333333332",
+  "capitalLongitude" : "36.816667",
+  "countryCode" : "KE",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Lesotho",
+  "capitalName" : "Maseru",
+  "capitalLatitude" : "-29.316666666666666",
+  "capitalLongitude" : "27.483333",
+  "countryCode" : "LS",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Liberia",
+  "capitalName" : "Monrovia",
+  "capitalLatitude" : "6.3",
+  "capitalLongitude" : "-10.800000",
+  "countryCode" : "LR",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Libya",
+  "capitalName" : "Tripoli",
+  "capitalLatitude" : "32.88333333333333",
+  "capitalLongitude" : "13.166667",
+  "countryCode" : "LY",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Madagascar",
+  "capitalName" : "Antananarivo",
+  "capitalLatitude" : "-18.916666666666668",
+  "capitalLongitude" : "47.516667",
+  "countryCode" : "MG",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Malawi",
+  "capitalName" : "Lilongwe",
+  "capitalLatitude" : "-13.966666666666667",
+  "capitalLongitude" : "33.783333",
+  "countryCode" : "MW",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Mali",
+  "capitalName" : "Bamako",
+  "capitalLatitude" : "12.65",
+  "capitalLongitude" : "-8.000000",
+  "countryCode" : "ML",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Mauritania",
+  "capitalName" : "Nouakchott",
+  "capitalLatitude" : "18.066666666666666",
+  "capitalLongitude" : "-15.966667",
+  "countryCode" : "MR",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Mauritius",
+  "capitalName" : "Port Louis",
+  "capitalLatitude" : "-20.15",
+  "capitalLongitude" : "57.483333",
+  "countryCode" : "MU",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Morocco",
+  "capitalName" : "Rabat",
+  "capitalLatitude" : "34.016666666666666",
+  "capitalLongitude" : "-6.816667",
+  "countryCode" : "MA",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Mozambique",
+  "capitalName" : "Maputo",
+  "capitalLatitude" : "-25.95",
+  "capitalLongitude" : "32.583333",
+  "countryCode" : "MZ",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Namibia",
+  "capitalName" : "Windhoek",
+  "capitalLatitude" : "-22.566666666666666",
+  "capitalLongitude" : "17.083333",
+  "countryCode" : "NA",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Niger",
+  "capitalName" : "Niamey",
+  "capitalLatitude" : "13.516666666666667",
+  "capitalLongitude" : "2.116667",
+  "countryCode" : "NE",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Nigeria",
+  "capitalName" : "Abuja",
+  "capitalLatitude" : "9.083333333333334",
+  "capitalLongitude" : "7.533333",
+  "countryCode" : "NG",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Rwanda",
+  "capitalName" : "Kigali",
+  "capitalLatitude" : "-1.95",
+  "capitalLongitude" : "30.050000",
+  "countryCode" : "RW",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Saint Helena",
+  "capitalName" : "Jamestown",
+  "capitalLatitude" : "-15.933333333333334",
+  "capitalLongitude" : "-5.716667",
+  "countryCode" : "SH",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Sao Tome and Principe",
+  "capitalName" : "Sao Tome",
+  "capitalLatitude" : "0.3333333333333333",
+  "capitalLongitude" : "6.733333",
+  "countryCode" : "ST",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Senegal",
+  "capitalName" : "Dakar",
+  "capitalLatitude" : "14.733333333333333",
+  "capitalLongitude" : "-17.633333",
+  "countryCode" : "SN",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Seychelles",
+  "capitalName" : "Victoria",
+  "capitalLatitude" : "-4.616666666666667",
+  "capitalLongitude" : "55.450000",
+  "countryCode" : "SC",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Sierra Leone",
+  "capitalName" : "Freetown",
+  "capitalLatitude" : "8.483333333333333",
+  "capitalLongitude" : "-13.233333",
+  "countryCode" : "SL",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Somalia",
+  "capitalName" : "Mogadishu",
+  "capitalLatitude" : "2.066666666666667",
+  "capitalLongitude" : "45.333333",
+  "countryCode" : "SO",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "South Africa",
+  "capitalName" : "Pretoria",
+  "capitalLatitude" : "-25.7",
+  "capitalLongitude" : "28.216667",
+  "countryCode" : "ZA",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "South Sudan",
+  "capitalName" : "Juba",
+  "capitalLatitude" : "4.85",
+  "capitalLongitude" : "31.616667",
+  "countryCode" : "SS",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Sudan",
+  "capitalName" : "Khartoum",
+  "capitalLatitude" : "15.6",
+  "capitalLongitude" : "32.533333",
+  "countryCode" : "SD",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Swaziland",
+  "capitalName" : "Mbabane",
+  "capitalLatitude" : "-26.316666666666666",
+  "capitalLongitude" : "31.133333",
+  "countryCode" : "SZ",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Tanzania",
+  "capitalName" : "Dar es Salaam",
+  "capitalLatitude" : "-6.8",
+  "capitalLongitude" : "39.283333",
+  "countryCode" : "TZ",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Togo",
+  "capitalName" : "Lome",
+  "capitalLatitude" : "6.116666666666666",
+  "capitalLongitude" : "1.216667",
+  "countryCode" : "TG",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Tunisia",
+  "capitalName" : "Tunis",
+  "capitalLatitude" : "36.8",
+  "capitalLongitude" : "10.183333",
+  "countryCode" : "TN",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Uganda",
+  "capitalName" : "Kampala",
+  "capitalLatitude" : "0.31666666666666665",
+  "capitalLongitude" : "32.550000",
+  "countryCode" : "UG",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Zambia",
+  "capitalName" : "Lusaka",
+  "capitalLatitude" : "-15.416666666666666",
+  "capitalLongitude" : "28.283333",
+  "countryCode" : "ZM",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "Zimbabwe",
+  "capitalName" : "Harare",
+  "capitalLatitude" : "-17.816666666666666",
+  "capitalLongitude" : "31.033333",
+  "countryCode" : "ZW",
+  "continentName" : "Africa"
+}, {
+  "countryName" : "British Indian Ocean Territory",
+  "capitalName" : "Diego Garcia",
+  "capitalLatitude" : "-7.3",
+  "capitalLongitude" : "72.400000",
+  "countryCode" : "IO",
+  "continentName" : "Africa"
+} ]

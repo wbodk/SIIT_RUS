@@ -1,0 +1,197 @@
+[ {
+  "countryName" : "Nauru",
+  "capitalName" : "Yaren",
+  "capitalLatitude" : "-0.5477",
+  "capitalLongitude" : "166.920867",
+  "countryCode" : "NR",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Tokelau",
+  "capitalName" : "Atafu",
+  "capitalLatitude" : "-9.166667",
+  "capitalLongitude" : "-171.833333",
+  "countryCode" : "TK",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "American Samoa",
+  "capitalName" : "Pago Pago",
+  "capitalLatitude" : "-14.266666666666667",
+  "capitalLongitude" : "-170.700000",
+  "countryCode" : "AS",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Australia",
+  "capitalName" : "Canberra",
+  "capitalLatitude" : "-35.266666666666666",
+  "capitalLongitude" : "149.133333",
+  "countryCode" : "AU",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Christmas Island",
+  "capitalName" : "The Settlement",
+  "capitalLatitude" : "-10.416666666666666",
+  "capitalLongitude" : "105.716667",
+  "countryCode" : "CX",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Cocos Islands",
+  "capitalName" : "West Island",
+  "capitalLatitude" : "-12.166666666666666",
+  "capitalLongitude" : "96.833333",
+  "countryCode" : "CC",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Cook Islands",
+  "capitalName" : "Avarua",
+  "capitalLatitude" : "-21.2",
+  "capitalLongitude" : "-159.766667",
+  "countryCode" : "CK",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Fiji",
+  "capitalName" : "Suva",
+  "capitalLatitude" : "-18.133333333333333",
+  "capitalLongitude" : "178.416667",
+  "countryCode" : "FJ",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "French Polynesia",
+  "capitalName" : "Papeete",
+  "capitalLatitude" : "-17.533333333333335",
+  "capitalLongitude" : "-149.566667",
+  "countryCode" : "PF",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Guam",
+  "capitalName" : "Hagatna",
+  "capitalLatitude" : "13.466666666666667",
+  "capitalLongitude" : "144.733333",
+  "countryCode" : "GU",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Kiribati",
+  "capitalName" : "Tarawa",
+  "capitalLatitude" : "-0.8833333333333333",
+  "capitalLongitude" : "169.533333",
+  "countryCode" : "KI",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Marshall Islands",
+  "capitalName" : "Majuro",
+  "capitalLatitude" : "7.1",
+  "capitalLongitude" : "171.383333",
+  "countryCode" : "MH",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Federated States of Micronesia",
+  "capitalName" : "Palikir",
+  "capitalLatitude" : "6.916666666666667",
+  "capitalLongitude" : "158.150000",
+  "countryCode" : "FM",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "New Caledonia",
+  "capitalName" : "Noumea",
+  "capitalLatitude" : "-22.266666666666666",
+  "capitalLongitude" : "166.450000",
+  "countryCode" : "NC",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "New Zealand",
+  "capitalName" : "Wellington",
+  "capitalLatitude" : "-41.3",
+  "capitalLongitude" : "174.783333",
+  "countryCode" : "NZ",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Niue",
+  "capitalName" : "Alofi",
+  "capitalLatitude" : "-19.016666666666666",
+  "capitalLongitude" : "-169.916667",
+  "countryCode" : "NU",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Norfolk Island",
+  "capitalName" : "Kingston",
+  "capitalLatitude" : "-29.05",
+  "capitalLongitude" : "167.966667",
+  "countryCode" : "NF",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Northern Mariana Islands",
+  "capitalName" : "Saipan",
+  "capitalLatitude" : "15.2",
+  "capitalLongitude" : "145.750000",
+  "countryCode" : "MP",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Palau",
+  "capitalName" : "Melekeok",
+  "capitalLatitude" : "7.483333333333333",
+  "capitalLongitude" : "134.633333",
+  "countryCode" : "PW",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Papua New Guinea",
+  "capitalName" : "Port Moresby",
+  "capitalLatitude" : "-9.45",
+  "capitalLongitude" : "147.183333",
+  "countryCode" : "PG",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Pitcairn Islands",
+  "capitalName" : "Adamstown",
+  "capitalLatitude" : "-25.066666666666666",
+  "capitalLongitude" : "-130.083333",
+  "countryCode" : "PN",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Samoa",
+  "capitalName" : "Apia",
+  "capitalLatitude" : "-13.816666666666666",
+  "capitalLongitude" : "-171.766667",
+  "countryCode" : "WS",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Solomon Islands",
+  "capitalName" : "Honiara",
+  "capitalLatitude" : "-9.433333333333334",
+  "capitalLongitude" : "159.950000",
+  "countryCode" : "SB",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Tonga",
+  "capitalName" : "Nuku'alofa",
+  "capitalLatitude" : "-21.133333333333333",
+  "capitalLongitude" : "-175.200000",
+  "countryCode" : "TO",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Tuvalu",
+  "capitalName" : "Funafuti",
+  "capitalLatitude" : "-8.516666666666667",
+  "capitalLongitude" : "179.216667",
+  "countryCode" : "TV",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Vanuatu",
+  "capitalName" : "Port-Vila",
+  "capitalLatitude" : "-17.733333333333334",
+  "capitalLongitude" : "168.316667",
+  "countryCode" : "VU",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "Wallis and Futuna",
+  "capitalName" : "Mata-Utu",
+  "capitalLatitude" : "-13.95",
+  "capitalLongitude" : "-171.933333",
+  "countryCode" : "WF",
+  "continentName" : "Australia"
+}, {
+  "countryName" : "US Minor Outlying Islands",
+  "capitalName" : "Washington D.C.",
+  "capitalLatitude" : "38.883333",
+  "capitalLongitude" : "-77.000000",
+  "countryCode" : "UM",
+  "continentName" : "Australia"
+} ]
