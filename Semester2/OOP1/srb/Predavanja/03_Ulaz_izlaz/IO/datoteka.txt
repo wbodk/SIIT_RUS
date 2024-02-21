@@ -1,0 +1,1 @@
+ja sam svetski mega car
