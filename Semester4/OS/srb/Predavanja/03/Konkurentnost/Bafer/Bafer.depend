@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1424430436 source:c:\tmp\proba\bafer\main.cpp
+	<thread>
+	<iostream>
+	"message_box.cpp"
+
+1414954386 c:\tmp\proba\bafer\message_box.cpp
+	<stack>
+
+1414954386 source:c:\tmp\proba\bafer\message_box.cpp
+	<stack>
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1424434198 source:c:\tmp\proba\baferuslovnapromenljiva\main.cpp
+	<thread>
+	<iostream>
+	<mutex>
+	<condition_variable>
+	"message_box.cpp"
+
+1424434325 c:\tmp\proba\baferuslovnapromenljiva\message_box.cpp
+	<queue>
+
+1424434325 source:c:\tmp\proba\baferuslovnapromenljiva\message_box.cpp
+	<queue>
+
+1424434325 source:d:\googledrive\nastava\os\2015\primeri\konkurentnost\baferuslovnapromenljiva\message_box.cpp
+	<queue>
+
+1456674094 source:d:\googledrive\nastava\os\2015\primeri\konkurentnost\baferuslovnapromenljiva\main.cpp
+	<thread>
+	<iostream>
+	<mutex>
+	<condition_variable>
+	"message_box.cpp"
+
+1424434325 d:\googledrive\nastava\os\2015\primeri\konkurentnost\baferuslovnapromenljiva\message_box.cpp
+	<queue>
+

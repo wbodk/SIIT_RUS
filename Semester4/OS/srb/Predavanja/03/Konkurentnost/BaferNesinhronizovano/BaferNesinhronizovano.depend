@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1488726029 source:d:\googledrive\nastava\os\2015\primeri\konkurentnost\bafernesinhronizovano\main.cpp
+	<thread>
+	<iostream>
+	<mutex>
+	"message_box.cpp"
+
+1456674543 d:\googledrive\nastava\os\2015\primeri\konkurentnost\bafernesinhronizovano\message_box.cpp
+	<queue>
+
+1456674543 source:d:\googledrive\nastava\os\2015\primeri\konkurentnost\bafernesinhronizovano\message_box.cpp
+	<queue>
+

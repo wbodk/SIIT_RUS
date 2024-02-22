@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1415640686 source:d:\googledrive\nastava\os\2015\primeri\blokiranje\filozofibezblokiranja\main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<condition_variable>
+

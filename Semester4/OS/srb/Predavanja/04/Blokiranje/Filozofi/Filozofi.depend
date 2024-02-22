@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1424878200 source:c:\tmp\proba\filozofi\main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<condition_variable>
+
+1424878267 source:d:\googledrive\nastava\os\2015\primeri\blokiranje\filozofi\main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<condition_variable>
+

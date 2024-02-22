@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1456674235 source:d:\googledrive\nastava\os\2015\primeri\konkurentnost\bafersemafor\main.cpp
+	<thread>
+	<iostream>
+	"message_box.cpp"
+	"Semaphore.hpp"
+
+1456668323 d:\googledrive\nastava\os\2015\primeri\konkurentnost\bafersemafor\message_box.cpp
+	<queue>
+
+1414953835 d:\googledrive\nastava\os\2015\primeri\konkurentnost\bafersemafor\semaphore.hpp
+	<condition_variable>
+
+1456668323 source:d:\googledrive\nastava\os\2015\primeri\konkurentnost\bafersemafor\message_box.cpp
+	<queue>
+
+1415002279 source:d:\googledrive\nastava\os\2015\primeri\konkurentnost\bafersemafor\semaphore.cpp
+	"Semaphore.hpp"
+

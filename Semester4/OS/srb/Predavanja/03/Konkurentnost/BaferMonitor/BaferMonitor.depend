@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1424436823 source:d:\googledrive\nastava\os\2015\primeri\konkurentnost\bafermonitor\message_box.cpp
+	<queue>
+	<mutex>
+	<condition_variable>
+
+1456674405 source:d:\googledrive\nastava\os\2015\primeri\konkurentnost\bafermonitor\main.cpp
+	<thread>
+	<iostream>
+	"message_box.cpp"
+
+1424436823 d:\googledrive\nastava\os\2015\primeri\konkurentnost\bafermonitor\message_box.cpp
+	<queue>
+	<mutex>
+	<condition_variable>
+

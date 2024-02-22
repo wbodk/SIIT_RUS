@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1414924126 source:c:\tmp\proba\primerniti\main.cpp
+	<thread>
+	<iostream>
+
