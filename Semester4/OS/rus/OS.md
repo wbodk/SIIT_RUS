@@ -30,7 +30,7 @@ Silbershatz, P.B. Galvin, G. Gagne, Wiley, 2013.
 - www.youtube.com/ftnenastava (Для первого колка)
 - www.youtube.com/timek12 (Материал 1й половины)
 
-## Лекция 1
+# Лекция 1
 
 Состояния процесса:
 
