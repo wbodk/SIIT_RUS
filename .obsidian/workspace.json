@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Semester4/SIMS/rus/SIMS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Semester4/SIMS/rus/SIMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Semester4/SIMS/rus/SIMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Semester4/SIMS/rus/SIMS.md"
               }
             }
           }
@@ -146,21 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c98cff962c47f68",
+  "active": "47b6dbb024f6fcb5",
   "lastOpenFiles": [
-    "Semester4/SIMS/rus/SIMS.md",
-    "Semester4/SIMS/rus/imgs/Pasted image 20240227144743.png",
-    "Semester4/SIMS/rus/imgs/Pasted image 20240227144352.png",
-    "Semester4/SIMS/rus/imgs/Pasted image 20240227144342.png",
-    "Semester4/SIMS/rus/imgs/Pasted image 20240227144306.png",
-    "Semester4/SIMS/rus/imgs/Pasted image 20240227144234.png",
-    "Semester4/SIMS/rus/imgs/Pasted image 20240227143823.png",
-    "Semester4/SIMS/rus/imgs/Pasted image 20240227143400.png",
-    "Semester4/SIMS/rus/imgs/Pasted image 20240227143351.png",
-    "Semester4/SIMS/rus/imgs/Pasted image 20240227143344.png",
-    "Semester4/SIMS/rus/imgs/Pasted image 20240227143201.png",
-    "Semester4/SIMS/rus/imgs",
+    "Semester4/SIMS/rus/imgs/20240227144743.png",
+    "Semester4/SIMS/rus/imgs/20240227144352.png",
+    "Semester4/SIMS/rus/imgs/20240227144342.png",
+    "Semester4/SIMS/rus/imgs/20240227144306.png",
+    "Semester4/SIMS/rus/imgs/20240227144234.png",
+    "Semester4/SIMS/rus/imgs/20240227143823.png",
+    "Semester4/SIMS/rus/imgs/20240227143400.png",
+    "Semester4/SIMS/rus/imgs/20240227143351.png",
+    "Semester4/SIMS/rus/imgs/20240227143344.png",
+    "Semester4/SIMS/rus/imgs/20240227143201.png",
+    "Semester4/SIMS/rus/imgs/20240227143124.png",
     "Semester4/OS/rus/OS.md",
+    "Semester4/SIMS/rus/SIMS.md",
+    "README.md",
+    "Semester4/SIMS/rus/imgs",
     "Semester4/SIMS/rus",
     "Semester4/OS/srb/Predavanja/03/Konkurentnost/Sum/main.exe",
     "Semester4/OS/srb/Predavanja/03/Konkurentnost/Sum/main.o",
