@@ -129,7 +129,7 @@ debugInConsole: false # Print debug info in Obsidian console
 	- над набором атрибутов ранее файлов формируется структура схемы БД
     - над схемой БД создается, используется и обновляется база данных
 
-![](Semester4/BP/rus/lectures/imgs/lecture%2001/1.png)
+![](imgs/lecture%2001/1.png)
 ### Схема базы данных
 Программа, использующая услуги СУБД:
 - знает только схему БД, как логическую категорию
@@ -173,7 +173,7 @@ debugInConsole: false # Print debug info in Obsidian console
 - данные в реляционной базе данных
 	- все строки имеют одинаковый формат
 
-![700](Semester4/BP/rus/lectures/imgs/lecture%2001/2.png)
+![](imgs/lecture%2001/2.png)
 
 **Полуструктурированные данные**
 - возможно определить схему, которая указывает возможные элементы, участвующие в структуре
@@ -181,7 +181,7 @@ debugInConsole: false # Print debug info in Obsidian console
 - часто отображаются с помощью графиков и деревьев
 - примеры: HTML, JSON, YAML код
 
-![700](Semester4/BP/rus/lectures/imgs/lecture%2001/3.png)
+![](imgs/lecture%2001/3.png)
 
 
 **Неструктурированные данные**
@@ -190,4 +190,4 @@ debugInConsole: false # Print debug info in Obsidian console
 	- текстовые или мультимедийные документы
 - данные неструктурированы с точки зрения системы их хранения
 
-![700](Semester4/BP/rus/lectures/imgs/lecture%2001/4.png)
+![](imgs/lecture%2001/4.png)
