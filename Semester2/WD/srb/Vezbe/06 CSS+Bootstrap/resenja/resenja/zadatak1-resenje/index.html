@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Open Weather Map API</title>
+	<!-- 
+		OBAVEZNI BOOTSTRAP IMPORTI: 
+		  - Bootstrap JS
+			- jQuery
+			- Bootstrap CSS
+	-->
+	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css" />
+	<script src="js/jquery-3.3.1.min.js"></script>
+	<script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+	<!-- Font ikonice -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+		integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+</head>
+
+<body>
+	<!-- Svi Bootstrap elementi treba da budu u jednom elementu sa klasom container ili container-fluid -->
+	<div class="container-fluid">
+		<!-- 
+			Bootstrap navigacija: 
+			navbar-inverse - Crna tema
+				navbar-fixed-top - Navigacija se uvek nalazi na vrhu stranice bez obzira na skrolovanje
+			-->
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+			<a href="#" class="navbar-brand">Vremenska Prognoza</a>
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav mr-auto">
+					<li class="nav-item active"><a href="#" class="nav-link">Početna</a></li>
+					<!-- Bootstrap dropdown: -->
+					<li class="nav-item dropdown">
+						<!-- Link koji otvara dropdown listu -->
+						<a class="dropdown-toggle nav-link" data-toggle="dropdown" href="#">
+							Dokumentacija
+							<span class="caret"></span>
+						</a>
+						<!-- Lista koja se pojavljuje i sakriva na klik -->
+						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+							<a class="dropdown-item" href="https://openweathermap.org/current" target="_blank">Trenutna
+								prognoza</a>
+							<a class="dropdown-item" href="https://openweathermap.org/forecast5"
+								target="_blank">Prognoza za 5 dana</a>
+							<a class="dropdown-item" href="https://openweathermap.org/api" target="_blank">API
+								dokumentacija</a>
+						</div>
+					</li>
+				</ul>
+				<!-- Forma u desnom delu navigacije -->
+				<form class="form-inline my-2 my-lg-0" id="searchForm">
+					<!-- Kod Bootstrap formi sve labele i njihovi inputi treba da budu organizovani u form-group elemente -->
+					<div class="form-group">
+						<input type="text" placeholder="Lokacija" class="form-control" id="txtLocation">
+					</div>
+					<button type="submit" class="btn btn-success ml-2" id="btnSearch">
+						<span class="glyphicon glyphicon-search"></span>
+						Pretraga
+					</button>
+					<button type="button" class="btn btn-danger ml-2" id="btnClear">
+						<i class="fas fa-times"></i>
+					</button>
+				</form>
+			</div>
+		</nav>
+		<!-- Bootstrap Jumbotron -->
+		<div class="jumbotron" id="intro">
+			<h1 class="display-4">Vremenska prognoza</h1>
+			<p class="lead">Na ovoj stranici mozete videti trenutno vreme ili vremensku prognozu za 5 dana za traženu
+				lokaciju.<br />
+				Unesite naziv mesta u polje za pretragu u navigaciji.</p>
+			<p>
+				<a class="btn btn-danger btn-lg" href="https://openweathermap.org/" target="_blank" role="button">
+					OpenWeatherMap
+					<i class="fas fa-cloud"></i>
+				</a>
+			</p>
+		</div>
+		<div id="resultsContainer">
+			<!-- 
+					Bootstrap grid:
+	    			- 	U ovom primeru imamo samo jedan red (jedan div sa klasom row) i dve kolone
+	    			-	Na velikom prikazu prva kolona (sidebar) treba da zauzme 4/12 sirine, a druga ostalih 8/12
+	    			-	Na malim ekranima, obe treba da zauzmu ceo red (col-sm-12)
+				-->
+			<div class="row">
+				<div class="col­-sm-­12 col-lg-4">
+					<div class="card">
+						<div class="card-header bg-dark text-light">
+							<h3 class="card-title">Trenutno vreme</h3>
+						</div>
+						<div class="card-body">
+							<h3 id="locationInfo"></h3>
+							<h4 id="conditionsInfo"></h4>
+							<table class="table table-hover">
+								<thead>
+									<tr>
+										<th>Min.</th>
+										<th>Maks.</th>
+										<th>Pritisak</th>
+										<th>Vlažnost</th>
+										<th>Vetar</th>
+									</tr>
+								</thead>
+								<tbody id="currentWeatherTbody">
+
+								</tbody>
+							</table>
+						</div>
+					</div>
+				</div>
+				<div class="col­-sm-­12 col-lg-8">
+					<h1>Prognoza za 5 dana</h1>
+					<table class="table table-hover" id="forecastTable">
+						<thead>
+							<tr>
+								<th>Vreme</th>
+								<th>Temp</th>
+								<th>Uslovi</th>
+								<th>Min.</th>
+								<th>Maks.</th>
+								<th>Pritisak</th>
+								<th>Vlažnost</th>
+								<th>Vetar</th>
+							</tr>
+						</thead>
+						<tbody>
+
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script type="text/javascript" src="js/script.js"></script>
+
+</body>
+
+</html>

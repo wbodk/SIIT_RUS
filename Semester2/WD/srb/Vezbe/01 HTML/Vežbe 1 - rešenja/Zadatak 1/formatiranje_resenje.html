@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<!-- Da bi browseri razumeli da se radi o HTML 5 ide prethodna DOCTYPE deklaracija -->
+<!-- Dokument uvek počinja sa html elementom.
+     Dobro je koristiti lang kako bi se znalo na kom jeziku je saržaj
+-->
+<html lang="sr">
+	<!-- head element sadrži dodatne informacije kako browser da procesira stranicu -->
+	<head>
+		<!-- 
+             Karakter set je dobro postaviti na utf-8.
+             Omogućava da stranica prikazuje karaktere različitih pisama
+        -->
+        <meta charset="utf-8"/>
+		<!-- 
+             Title - prikazuje naslov stranice u tabu browsera
+        -->
+        <title>Probe formatiranja</title>
+	</head>
+	<!-- 
+         Body element sadrži sve vidljive komponente stranice
+    -->
+    <body>
+		<h1>Tekst za probu formatiranja</h1>
+		<p>Ovo je tekst u kome ćemo isprobati razna formatiranja teksta.</p>
+		<p>
+        <!-- 
+            U ovom primeru je neophodno samo ubaciti odgovarajuće elemente
+            za posebno formatiranje teksta:
+
+            b - podebljani tekst
+            strong - podebljani tekst, ali i bitniji sadržaj
+            i - zakošeni tekst
+            em - zakošeni tekst, ali i bitniji sadržaj
+            mark - "markira" tekst (menja boju pozadine)
+            sup - superskript - smešta umanjeni tekst iznad osnovne linije fonta
+            sub - supskript - smešta umanjeni tekst ispod osnovne linije fonta
+            del - označava tekst koji je uklonjen - ne važi (ali je ostavljen vidljiv da bi se          videla izmena)
+            ins - označava novododati tekst
+        -->
+			Po potrebi moguće je tekst <b>podebljati</b>. Međutim ako je potrebno naglasiti i da je tekst po smislu važniji koristio bi se <strong>strong tag</strong>.
+			Moguće je tekst prikazati i <i>zakošeno (kurziv)</i>. I ovde ukoliko je tekst bitniji od ostatka koristi se specijalni <em>em tag</em>.
+			
+			Osim toga je moguće <mark>markirati tekst</mark>, baš kao što bi to uradili markerom na papiru.
+			
+			Ponekad se može videti da neko površinu označi sa m^2 što je samo loš način da se pravilno napiše m<sup>2</sup>.
+			
+			Isto važi i za indekse koji se često pojavljuju u nekim formulama, npr. X<sub>i</sub>, treba ih napisati pravilno.
+			
+			Ukoliko neko pregleda i rediguje tekst onda je često neophodno neki tekst vidljivo <del>označiti za uklanjanje</del>, a isto tako učiniti <ins>novoododati tekst jasnije vidljivim</ins>.
+		</p>
+	</body>
+</html>
