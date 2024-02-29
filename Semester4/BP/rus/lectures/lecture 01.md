@@ -1,5 +1,5 @@
 ```table-of-contents
-title: 
+title: # Содержание 
 style: nestedList # TOC style (nestedList|inlineFirstLevel)
 minLevel: 0 # Include headings from the specified level
 maxLevel: 0 # Include headings up to the specified level
@@ -173,7 +173,7 @@ debugInConsole: false # Print debug info in Obsidian console
 - данные в реляционной базе данных
 	- все строки имеют одинаковый формат
 
-![](Semester4/BP/rus/lectures/imgs/lecture%2001/2.png)
+![700](Semester4/BP/rus/lectures/imgs/lecture%2001/2.png)
 
 **Полуструктурированные данные**
 - возможно определить схему, которая указывает возможные элементы, участвующие в структуре
@@ -181,7 +181,7 @@ debugInConsole: false # Print debug info in Obsidian console
 - часто отображаются с помощью графиков и деревьев
 - примеры: HTML, JSON, YAML код
 
-![](Semester4/BP/rus/lectures/imgs/lecture%2001/3.png)
+![700](Semester4/BP/rus/lectures/imgs/lecture%2001/3.png)
 
 
 **Неструктурированные данные**
@@ -190,4 +190,4 @@ debugInConsole: false # Print debug info in Obsidian console
 	- текстовые или мультимедийные документы
 - данные неструктурированы с точки зрения системы их хранения
 
-![](Semester4/BP/rus/lectures/imgs/lecture%2001/4.png)
+![700](Semester4/BP/rus/lectures/imgs/lecture%2001/4.png)
