@@ -18,7 +18,7 @@ Milica Škipina, [m1l1c4@uns.ac.rs](mailto:m1l1c4@uns.ac.rs) *вот это ст
 
 Фокус предмета:
 
-![](Semester4/SIMS/rus/imgs/1.png)
+![](imgs/1.png)
 
 На ваш взгляд, какую фазу самой сложной считаете для осуществления?
 
