@@ -1,0 +1,52 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css" />
+		<script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+			integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+		<link rel="stylesheet" href="css/style.css"/>
+		
+		<script type="text/javascript">
+			korisnici = []
+			function ucitajKorisnike() {
+				
+				korisnici[0] = 'pera';
+				korisnici[1] = 'zika';
+				
+				if(document.location.search.includes("?korisnickoIme=")) {
+					var noviKorisnik = document.location.search.split("?korisnickoIme=")[1].split("&")[0];
+					if(korisnici.includes(noviKorisnik)) {
+						alert('Korisnik sa korisnickim imenom ' + noviKorisnik + ' vec postoji u listi!');
+					} else {
+						korisnici.push(noviKorisnik);
+						alert('Korisnik sa korisnickim imenom ' + noviKorisnik + ' uspesno dodat u listu!');
+					}
+				}
+				
+				var table = document.getElementById("korisnici");
+				for(index in korisnici) {
+					
+					var row = table.insertRow(table.childElementCount);
+					var cell = row.insertCell(0);
+				
+					cell.innerHTML = "<tr><td>"+korisnici[index]+"</td></tr>";
+				}
+				
+			}
+		</script>
+	</head>
+	
+	<body onload="ucitajKorisnike()">
+		<div class="container"> 
+			<div class=" h-100 d-flex justify-content-center align-items-center">
+				<table class="table table-striped table-dark " id="korisnici"	>
+				<thead >
+					<tr>
+					<th scope="col">Korisnicko ime</th>
+				</tr>
+				</thead>
+			</table>
+			</div>
+		</div>
+	</body>
+</html>

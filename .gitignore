@@ -1,0 +1,10 @@
+__pycache__/
+.DS_Store
+.obsidian/
+Semester3/
+Semester1/
+ScheduleAndMore.ods
+.venv/
+.vscode/
+__MACOSX/
+
