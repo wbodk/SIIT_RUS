@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Forms - Registration</title>
+</head>
+
+<body>
+    <h1>Create an Account</h1>
+
+    <form name="signUpForm">
+        <p>
+            <label for="fname">Full Name:</label>
+            <br />
+            <input type="text" name="fname" id="fname" pattern="^((\p{L})+(\s(\p{L})+)+)$" required>
+        </p>
+
+        <p>
+            <label for="email">Email:</label>
+            <br />
+            <input type="text" name="email" id="email" required>
+        </p>
+
+        <p>
+            <label for="password">Password:</label>
+            <br />
+            <input type="password" name="password" id="password" pattern="^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,}$" required>
+        </p>
+
+        <p>
+            <label for="age">Age:</label>
+            <br />
+            <select name="age" id="age">
+                <option value="">-- Select Age --</option>
+                <option value="group1">Under 18</option>
+                <option value="group2">18 to 30</option>
+                <option value="group3">31 to 45</option>
+                <option value="group4">46 to 60</option>
+                <option value="group5">61+</option>
+            </select>
+        </p>
+
+        <p>
+            Gender:
+            <br />
+            <input type="radio" name="gender" id="male" value="male">
+            <label for="male">Male</label>            
+            <input type="radio" name="gender" id="female" value="female">
+            <label for="female">Female</label>
+        </p>
+
+        <p>
+            <label for="about">Tell us a little about yourself:</label>
+            <br>
+            <textarea name="about" id="about" rows="5" cols="40"></textarea>
+        </p>
+
+        <p>
+            <input type="checkbox" name="terms" id="terms" value="agree" required>
+            <label for="terms">
+                I agree to the <a href="http://www.dumb.com/terms" target="_blank">Terms & Conditions</a>
+            </label>
+        </p>
+
+        <button type="submit">Sign Up</button>
+
+    </form>
+
+</body>
+
+</html>

@@ -1,0 +1,203 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+
+	-webkit-box-sizing: border-box;
+  	   -moz-box-sizing: border-box;
+  			box-sizing: border-box;
+}
+
+.mainNavigation {
+	width: 100%;
+	height: 4em;
+	float: left;
+	padding: .5em 15%;
+}
+
+.avatarContainer {
+	float: left;
+	height: 100%;
+	border-radius: 50%;
+	overflow: hidden;
+}
+
+.avatarContainer img {
+	height: 100%;
+}
+
+.avatarContainer:hover img {
+	-webkit-transform: scale(1.2);
+ 	   -moz-transform: scale(1.2);
+  		-ms-transform: scale(1.2);
+  		 -o-transform: scale(1.2);
+  			transform: scale(1.2);
+}
+
+.mainNavigation ul {
+	list-style: none;
+	float: right;
+	margin-top: 1.2em;
+}
+
+.mainNavigation li {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.mainNavigation a { 
+	text-decoration: none; 
+	color: #555;
+}
+
+.mainNavigation a:hover {
+	color: #72ccc4;
+}
+
+section {
+	float: left;
+	width: 100%;
+	padding: 7.5em 20%;
+}
+
+.intro {
+	height: 40em;
+	background: #e26868;
+	padding: 0;
+}
+
+h1 {
+	color: #555;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 5em auto 0;
+	font-size: 2em;
+}
+
+.services {
+	background: #4a3f60;
+}
+
+.column {
+	float: left;
+	width: 50%;
+	margin-bottom: 5em;
+}
+
+.serviceImage {
+	float: left;
+	height: 120px;
+    width: 120px;
+    padding-top: 28px;
+	border-radius: 50%;
+	background: #443959;
+}
+
+.serviceImage img {
+	width: 60%;
+	display: block;
+	margin: 0 auto;
+}
+
+h2 {
+	float: right;
+	width: 65%;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: left;
+	margin-top: 10%;
+	padding-left: 1em;
+	font-size: 1.2em;
+}
+
+
+.contact h1 {
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 2em;
+}
+
+.contact h2 {
+	text-align: center;
+	color: #a9a9a9;
+	font-size: 1.2em;
+	width: 100%;
+}
+
+.contact .contactForm {
+	float: left;
+	width: 100%;
+	background: #eee;
+	border-radius: 6px;
+    display: block;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.contact .contactInput {
+	float: left;
+	width: 48%;
+	border-radius: 3px;
+	border: none;
+    color: #72ccc4;
+    height: 50px;
+    margin: 10px 0;
+    padding-left: 20px;
+}
+
+.contact .contactInput[name='contact_email'] {
+	float: right;
+}
+
+.contact textarea {
+	float: left;
+	width: 100%;
+	border-radius: 3px;
+	border: none;
+    color: #72ccc4;
+    padding: 20px;
+    margin: 10px 0;
+    resize: none;
+}
+
+@media screen and (max-width: 1350px) {
+	.services .column .serviceImage {
+		float: none;
+		margin: 0 auto;
+	}
+
+	.services .column h2 {
+		width: 100%;
+		text-align: center;
+		padding: 0;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	
+	.mainNavigation {
+		padding: 0;
+		height: auto;
+	}
+
+	.mainNavigation .avatarContainer {
+		float: none;
+		height: 4em;
+		width: 4em;
+		margin: 0 auto;
+	}
+
+	.mainNavigation ul {
+		width: 100%;
+	}
+
+	.mainNavigation ul li {
+		width: 100%;
+		text-align: center;
+		padding: 0.5em;
+	}
+
+	section { padding: 5.5em 10%; }
+	.services .column {	width: 100%; }
+	.contact .contactForm .contactInput { width: 100%; }
+}
