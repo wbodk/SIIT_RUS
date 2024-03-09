@@ -18,7 +18,7 @@ Milica Škipina, [m1l1c4@uns.ac.rs](mailto:m1l1c4@uns.ac.rs) *вот это ст
 
 Фокус предмета:
 
-![](imgs/1.png)
+![](Semester4/SIMS/rus/imgs/1.png)
 
 На ваш взгляд, какую фазу самой сложной считаете для осуществления?
 
@@ -59,7 +59,7 @@ Milica Škipina, [m1l1c4@uns.ac.rs](mailto:m1l1c4@uns.ac.rs) *вот это ст
 # Лекция 1
 
 UML – *Unified Modeling Language*
-![](imgs/2.png)
+![](Semester4/SIMS/rus/imgs/2.png)
 
 Объединенный язык моделирования
 - Изначально создавался с целью объединения и стандартизации различных нотаций, используемых для моделирования.
