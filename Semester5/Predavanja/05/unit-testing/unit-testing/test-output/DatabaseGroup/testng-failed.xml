@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [DatabaseGroup]">
+  <test name="database">
+    <groups>
+      <run>
+        <include name="database"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="unittesting.testng.groups.TestGroup"/>
+    </classes>
+  </test> <!-- database -->
+</suite> <!-- Failed suite [DatabaseGroup] -->

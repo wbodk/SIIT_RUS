@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [test-parameter]">
+  <parameter name="poolsize" value="64"/>
+  <parameter name="dbconfig" value="db.properties"/>
+  <test name="example1">
+    <parameter name="poolsize" value="64"/>
+    <parameter name="dbconfig" value="db.properties"/>
+    <classes>
+      <class name="unittesting.testng.param.TestParamXML"/>
+    </classes>
+  </test> <!-- example1 -->
+</suite> <!-- Failed suite [test-parameter] -->

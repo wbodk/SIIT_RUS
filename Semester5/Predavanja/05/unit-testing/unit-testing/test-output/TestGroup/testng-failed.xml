@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestGroup]">
+  <test name="postgres">
+    <groups>
+      <run>
+        <include name="postgres-test"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="unittesting.testng.groups.TestPostgres"/>
+      <class name="unittesting.testng.groups.TestGroup"/>
+    </classes>
+  </test> <!-- postgres -->
+</suite> <!-- Failed suite [TestGroup] -->

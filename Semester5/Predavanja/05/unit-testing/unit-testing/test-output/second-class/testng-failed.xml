@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [second-class]">
+  <test name="example2">
+    <groups>
+      <run>
+        <include name="secondGroup"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="vezbe12.parameters.TestParameterDataProviderITestContext"/>
+    </classes>
+  </test> <!-- example2 -->
+</suite> <!-- Failed suite [second-class] -->

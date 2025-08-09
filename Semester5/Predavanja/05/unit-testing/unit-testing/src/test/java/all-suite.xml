@@ -1,0 +1,26 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<!-- @BeforeSuite -->
+<suite name="TestAll">
+
+	<!-- @BeforeTest -->
+	<test name="case1">
+		<classes>
+			<class name="unittesting.testng.beforeafter.TestNGConfiguration" />
+			<class name="unittesting.testng.beforeafter.DBConfig" />
+			<class name="unittesting.testng.beforeafter.TestDBConnection" />
+		</classes>
+	</test>
+	<!-- @AfterTest -->
+
+	<!-- @BeforeTest -->
+	<test name="case2">
+		<classes>
+			<class name="unittesting.testng.beforeafter.TestDBConnection" />
+			<class name="unittesting.testng.beforeafter.DBConfig" />
+		</classes>
+	</test>
+	<!-- @AfterTest -->
+
+</suite>
+<!-- @AfterSuite -->
