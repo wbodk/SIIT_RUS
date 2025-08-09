@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestAll]">
+  <test name="case1">
+    <classes>
+      <class name="unittesting.testng.beforeafter.TestNGConfiguration"/>
+      <class name="unittesting.testng.beforeafter.DBConfig"/>
+      <class name="unittesting.testng.beforeafter.TestDBConnection"/>
+    </classes>
+  </test> <!-- case1 -->
+  <test name="case2">
+    <classes>
+      <class name="unittesting.testng.beforeafter.TestDBConnection"/>
+      <class name="unittesting.testng.beforeafter.DBConfig"/>
+    </classes>
+  </test> <!-- case2 -->
+</suite> <!-- Failed suite [TestAll] -->

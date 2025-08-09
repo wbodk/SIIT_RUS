@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestGroup">
+	<test name="postgres">
+
+		<groups>
+			<run>
+				<include name="postgres-test" />
+			</run>
+		</groups>
+
+		<classes>
+			<class name="unittesting.testng.groups.TestPostgres" />
+			<class name="unittesting.testng.groups.TestGroup" />
+		</classes>
+
+	</test>
+</suite>
